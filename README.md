@@ -2,6 +2,11 @@
 
 <a href="https://trendshift.io/repositories/14999" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14999" alt="Done-0%2Ffuck-u-code | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
+> [!TIP]
+> **My new project [Navis](https://github.com/Navis-AI-Labs/Navis)** — A project-centric collaboration operating system for humans and AI agents, built around persistent Projects, shared state, and real-world delivery across domains.
+>
+> In early development — discussions and contributions welcome · [Star](https://github.com/Navis-AI-Labs/Navis) · [Contact me](#contact)
+
 > [!Important]
 > 📢 Remember this command: `fuck-u-code` - let bad code have nowhere to hide!
 
@@ -289,9 +294,3 @@ MIT
 
 - fenderisfine@gmail.com
 - WeChat: l927171598
-
-## 💡 Discover More
-
-- **[HotDaily](https://hotdaily.top)** — Drowning in tech noise? A daily digest that curates the best of Hacker News, Lobsters and more, then LLM-summarizes and ranks every story by value — so you catch what matters in minutes.
-- **[Value Realization](https://github.com/Done-0/value-realization)** — Want to build the next breakout product like `fuck-u-code`? Use this AI skill to escape the developer's "echo chamber" and accurately validate real user needs.
-- **[Hermai.ai](https://hermai.ai)** — Say goodbye to fragile web scrapers. Instantly turn any website into a clean, stable JSON API without wrestling with DOM changes and anti-scraping protections.

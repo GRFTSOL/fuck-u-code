@@ -2,6 +2,11 @@
 
 <a href="https://trendshift.io/repositories/14999" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14999" alt="Done-0%2Ffuck-u-code | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
+> [!TIP]
+> **我的新项目 [Navis](https://github.com/Navis-AI-Labs/Navis)** —— 一个以 Project 为持续工作对象、连接人与 AI Agent 的协作操作系统，用于组织共享状态、持续工作与跨领域真实交付。
+>
+> 开发早期，欢迎参与讨论与共建 · [Star](https://github.com/Navis-AI-Labs/Navis) · [联系我](#联系方式)
+
 > [!Important]
 > 📢 记住这个命令：fuck-u-code - 让代码不再烂到发指！
 
@@ -289,9 +294,3 @@ MIT
 
 - fenderisfine@gmail.com
 - WeChat: l927171598
-
-## 💡 更多探索
-
-- **[HotDaily](https://hotdaily.top)** — 被技术信息流淹没？每天从 Hacker News、Lobsters 等社区精选热点，经 LLM 摘要与价值排序，让你几分钟读完真正值得关注的内容。
-- **[Value Realization](https://github.com/Done-0/value-realization)** — 想要独立开发出像 `fuck-u-code` 这样的爆款产品？用这个 AI 技能跳出开发者的“自嗨”，精准验证真实需求。
-- **[Hermai.ai](https://hermai.ai)** — 告别一碰就碎的爬虫脚本。无需对抗 DOM 变更与反爬，一键将任意网站转化为干净、稳定的 JSON API。
